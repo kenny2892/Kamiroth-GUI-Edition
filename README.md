@@ -1,7 +1,7 @@
 # Kamiroth-GUI-Edition
 ![Background](https://github.com/kenny2892/Kamiroth-GUI-Edition/blob/master/My%20Game%20-%20GUI%20Edition/src/resources/images/MainBG.png)
 
-This was my first attempt at making a GUI program. It is a gui version of my Pokemon style battle game. The original was created for command line and had much more content.The game's name was created by a random name generator.
+This was my first attempt at making a GUI program. It is a gui version of my Pokemon style battle game. [The original](https://github.com/kenny2892/Kamiroth-Console-Edition/blob/master/README.md) was created for command line and had much more content.The game's name was created by a random name generator.
 
 I put this project on hiatus because of school and because I wanted to learn more about Gui development and programming in general. I figured that I would be able to come back to this and find many things wrong with it, and I most certainly can.
 
